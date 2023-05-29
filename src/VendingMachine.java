@@ -10,4 +10,5 @@ public interface VendingMachine {
 
     public Product getProduct();
 
+    public Product getProduct(String name, double volume, int temp);
 }

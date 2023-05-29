@@ -13,5 +13,10 @@ public class WaterVendingMachine implements VendingMachine{
     public Product getProduct(){
         return waters.pollLast();
     }
-    
+
+    @Override
+    public Product getProduct(String name, double volume, int temp){
+        return null;
+    }
+
 }
