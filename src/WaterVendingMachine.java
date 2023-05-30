@@ -14,8 +14,7 @@ public class WaterVendingMachine implements VendingMachine{
         return waters.pollLast();
     }
 
-    @Override
-    public Product getProduct(String name, double volume, int temp){
+    public Product getProduct(String name, double volume, double temp){
         return null;
     }
 

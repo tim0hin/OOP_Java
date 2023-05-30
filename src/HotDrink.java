@@ -1,6 +1,6 @@
 public class HotDrink extends Product {
 
-    private int temp;   // температура
+    private double temp;   // температура
     private double volume; // объем
 
     public HotDrink(String name, int price, int temp, double volume){
@@ -10,7 +10,7 @@ public class HotDrink extends Product {
         this.volume = volume;
     }
 
-    public int getTemp() {
+    public double getTemp() {
         return this.temp;
     }
 

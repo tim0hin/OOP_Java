@@ -1,9 +1,10 @@
+import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class HotDrinkVendingMachine implements VendingMachine{
 
     private LinkedList<Product> hotDrinks;
-    @Override
+
     public void putProduct(LinkedList<Product> item) {
         this.hotDrinks = item;
     }
@@ -13,13 +14,15 @@ public class HotDrinkVendingMachine implements VendingMachine{
         return hotDrinks.pollLast();
     }
 
-    @Override
-    public Product getProduct(String name, double volume, int temp) {
-        for (Product hotDrink:hotDrinks) {
-            if (hotDrink.name.equals(name)){
-                return hotDrink;
+    public ArrayList<Product> getProduct(String name, double volume, int temp) {
+        ArrayList<Product> hdList = new ArrayList<>();
+        for (Product hotDrink: hotDrinks){
+            if (((HotDrink)(hotDrink)).getTemp() == temp &&
+                    ((HotDrink)(hotDrink)).getVolume() == volume &&
+                    hotDrink.name == name) {
+                hdList.add(hotDrink);
             }
         }
-        return null;
+        return hdList;
     }
 }
