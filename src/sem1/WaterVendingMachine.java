@@ -1,7 +1,9 @@
+package sem1;
+
 import java.util.LinkedList;
 
 /**
- * WaterVendingMachine
+ * sem1.WaterVendingMachine
  */
 public class WaterVendingMachine implements VendingMachine{
     private LinkedList<Product> waters;

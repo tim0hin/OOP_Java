@@ -1,3 +1,5 @@
+package sem1;
+
 public class Water extends Product {
 
     public Water(String name, int price) {
@@ -27,7 +29,7 @@ public class Water extends Product {
 
     @Override
     public String toString() {
-        return "Water {" + "name= " + name + 
+        return "sem1.Water {" + "name= " + name +
         ", price= " + price + "}";
     }
 

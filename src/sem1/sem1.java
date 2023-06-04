@@ -1,13 +1,15 @@
+package sem1;
+
 import java.util.LinkedList;
 
 public class sem1 {
     public static void main(String[] args) {
-//        WaterVendingMachine wvm = new WaterVendingMachine();
+//        sem1.WaterVendingMachine wvm = new sem1.WaterVendingMachine();
 //
-//        Product bonAqua = new Water("bonAqua", 50);
-//        Product redKey = new Water("redKey", 60);
+//        sem1.Product bonAqua = new sem1.Water("bonAqua", 50);
+//        sem1.Product redKey = new sem1.Water("redKey", 60);
 //
-//        LinkedList<Product> l = new LinkedList<>();
+//        LinkedList<sem1.Product> l = new LinkedList<>();
 //        l.add(bonAqua);
 //        l.add(redKey);
 //

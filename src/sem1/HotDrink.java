@@ -1,3 +1,5 @@
+package sem1;
+
 public class HotDrink extends Product {
 
     private double temp;   // температура
@@ -40,7 +42,7 @@ public class HotDrink extends Product {
 
     @Override
     public String toString() {
-        return "HotDrink {" + "name= " + name +
+        return "sem1.HotDrink {" + "name= " + name +
                 ", price= " + price +
                 ", temp= " + temp +
                 ", volume=" + volume + "}";
