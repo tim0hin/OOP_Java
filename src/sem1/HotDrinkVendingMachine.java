@@ -1,7 +1,9 @@
 package sem1;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
+import java.util.List;
 
 public class HotDrinkVendingMachine implements VendingMachine{
 
@@ -26,5 +28,9 @@ public class HotDrinkVendingMachine implements VendingMachine{
             }
         }
         return hdList;
+    }
+
+    public void sortHotDrinksByPrice(){
+        Collections.sort((List)hotDrinks);
     }
 }

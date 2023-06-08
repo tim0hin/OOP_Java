@@ -36,8 +36,16 @@ public class sem1 {
         hdvm.putProduct(hd);
 
 //        System.out.println(hdvm.getProduct("coffe",0.3, 91));
-        System.out.println(hdvm.getProduct("tea",0.6,65));
+        //System.out.println(hdvm.getProduct("tea",0.6,65));
 //        System.out.println(hdvm.getProduct("cacao",0.4,70));
+
+        hdvm.sortHotDrinksByPrice();
+        System.out.println(hdvm.getProduct());
+        System.out.println(hdvm.getProduct());
+        System.out.println(hdvm.getProduct());
+        System.out.println(hdvm.getProduct());
+        System.out.println(hdvm.getProduct());
+
 
     }
 }

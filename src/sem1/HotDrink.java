@@ -1,6 +1,6 @@
 package sem1;
 
-public class HotDrink extends Product {
+public class HotDrink extends Product implements Comparable<HotDrink> {
 
     private double temp;   // температура
     private double volume; // объем
@@ -46,5 +46,10 @@ public class HotDrink extends Product {
                 ", price= " + price +
                 ", temp= " + temp +
                 ", volume=" + volume + "}";
+    }
+
+    @Override
+    public int compareTo(HotDrink o) {
+        return this.getPrice() - o.getPrice();
     }
 }
