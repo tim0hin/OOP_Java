@@ -4,7 +4,11 @@ import java.util.Iterator;
 import java.util.List;
 
 public class StudentGroupIterator implements Iterator<Student> {
-
+    /*
+    Этот класс соответствует принципу единственной ответственности.
+    Для него определено единственное назначение
+    - итерировать объекты класса Student.
+     */
     private int counter;
     private final List<Student> students;
 

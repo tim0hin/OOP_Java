@@ -3,6 +3,10 @@ package sem3;
 import java.time.LocalDate;
 
 public class User {
+    /*
+    Этот класс соответствует принципу инверсий зависимостей.
+    От этого класса зависят Student и Teacher, а он от них не зависит.
+     */
     private String firstName;
     private String secondName;
     private String patronymic;
