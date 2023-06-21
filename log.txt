@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:46:19.803568200Z</date>
+  <millis>1687380379803</millis>
+  <nanos>568200</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>buttonClick</method>
+  <thread>1</thread>
+  <message>2.3-1.4i + -1.0 + 4.0i = 1.2999999999999998 + 2.6i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:46:53.805910600Z</date>
+  <millis>1687380413805</millis>
+  <nanos>910600</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>buttonClick</method>
+  <thread>1</thread>
+  <message>2.0 + 3.0i + -1.0 + 4.0i = 1.0 + 7.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:48:49.715607600Z</date>
+  <millis>1687380529715</millis>
+  <nanos>607600</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>getData</method>
+  <thread>1</thread>
+  <message>2.0 + 3.0i + -1.0 + 4.0i = 1.0 + 7.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:49:40.666294Z</date>
+  <millis>1687380580666</millis>
+  <nanos>294000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>getData</method>
+  <thread>1</thread>
+  <message>1.0 + 5.0i + 4.0 + 3.0i = 5.0 + 8.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:55:27.531791600Z</date>
+  <millis>1687380927531</millis>
+  <nanos>791600</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>getData</method>
+  <thread>1</thread>
+  <message>2.0 + 5.0i + 3.0 + 2.0i = 5.0 + 7.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:56:36.548665200Z</date>
+  <millis>1687380996548</millis>
+  <nanos>665200</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>getData</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i + -0.5 + 1.5i = 1.0 + 4.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T20:59:25.573291800Z</date>
+  <millis>1687381165573</millis>
+  <nanos>291800</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>getData</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i + -0.5 + 1.5i = 1.0 + 4.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:01:01.371855100Z</date>
+  <millis>1687381261371</millis>
+  <nanos>855100</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i + 0.5 + 1.5i = 2.0 + 4.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:11:18.875257800Z</date>
+  <millis>1687381878875</millis>
+  <nanos>257800</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i + -0.5 + 1.5i = -1.5 + 1.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:16:11.681991Z</date>
+  <millis>1687382171681</millis>
+  <nanos>991000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i + -0.5 + 1.5i = 1.0 + 4.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:17:13.005758500Z</date>
+  <millis>1687382233005</millis>
+  <nanos>758500</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i * -0.5 + 1.5i = -1.5 + 1.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:18:39.191235500Z</date>
+  <millis>1687382319191</millis>
+  <nanos>235500</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i + -0.5 + 1.5i = 1.0 + 4.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:20:07.999936100Z</date>
+  <millis>1687382407999</millis>
+  <nanos>936100</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>1.5 + 2.5i * -0.5 + 1.5i = -1.5 + 1.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:22:05.853670300Z</date>
+  <millis>1687382525853</millis>
+  <nanos>670300</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>(1.5 + 2.5i) + (-0.5 + 1.5i) = 1.0 + 4.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:23:16.296460300Z</date>
+  <millis>1687382596296</millis>
+  <nanos>460300</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>(1.5 + 2.5i) * (-0.5 + 1.5i) = -1.5 + 1.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:31:45.224059200Z</date>
+  <millis>1687383105224</millis>
+  <nanos>59200</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>(1.5 + 2.5i) * (-0.5 + 1.5i) = -4.5 + 1.0i</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-21T21:40:52.575679300Z</date>
+  <millis>1687383652575</millis>
+  <nanos>679300</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>sem7.controller.Controller</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>(1.5 + 2.5i) / (-0.5 + 1.5i) = 1.2-1.4i</message>
+</record>
+</log>
